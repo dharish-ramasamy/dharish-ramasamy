@@ -1,14 +1,14 @@
-<h1 align="center">Hey there, Welcome to my GitHub</h1>
+<h1 align="center">Welcome to my GitHub!!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=580&height=70&lines=I'm+Dharish+Ramasamy;Aspiring+Software+Developer;Web+Development+Enthusiast;DevOps+Engineer">
 </p>
-<h3 align="center">Embrace every opportunity to grow, and let your passion for what's right fuel your journey forward!!</h3>
+<h3 align="center" color=#ffb300 font="Poppins">Embrace every opportunity to grow, and let your passion for what's right fuel your journey forward!!</h3>
 
 ## 👩‍💻 About Me
 
-Hello! 👋 I'm Dharish, an engineering student, I am passionate about software development, programming, and web development. I am committed to continually enhancing my skills and seeking a dynamic fresher position in a reputable software company.
+Hello! 👋 I'm Dharish, a passionate and dedicated final-year engineering student with a strong foundation in software development, web development, and programming. With hands-on experience in Java, C, Python, HTML, CSS, JavaScript, and SQL, I'm continuously expanding my skill set to stay on the cutting edge of technology!!
 
-In my journey as a developer, I've honed skills in Java, C, Python, HTML, CSS, JavaScript, and SQL, with a dedication to continuous learning and skill development. I enjoy architecting scalable solutions, optimizing performance, and staying up-to-date with the latest industry trends and best practices.
+My projects showcase my commitment to writing clean, efficient code and solving complex problems. From developing interactive web applications to creating innovative software solutions, I'm on a journey to becoming a full-stack developer!!
 
 ## 🚀 Skills and Technologies
 
@@ -34,12 +34,11 @@ In my journey as a developer, I've honed skills in Java, C, Python, HTML, CSS, J
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharish-ramasamy&theme=vision-friendly-dark&include_all_commits=true&count_private=true&card_width=500&hide_border=true) 
 
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharish-ramasamy&bg_color=000000&color=ffffff&line=990000&point=ababab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🏆 Leetcode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/LKP6MEiZei?theme=dark&font=Poppins)
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharish-ramasamy&bg_color=000000&color=ffffff&line=990000&point=ababab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## ✍️ Random Dev Quote
 
