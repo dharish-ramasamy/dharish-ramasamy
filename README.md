@@ -38,6 +38,8 @@ In my journey as a developer, I've honed skills in Java, C, Python, HTML, CSS, J
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/LKP6MEiZei?theme=nord&font=Poppins&ext=contest)
 
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharish-ramasamy&bg_color=000000&color=ffffff&line=990000&point=ababab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## ✍️ Random Dev Quote
 
