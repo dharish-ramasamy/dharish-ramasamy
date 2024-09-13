@@ -1,16 +1,44 @@
-## Hi there 👋
+<p align="center"> # Hey there, Welcome to my GitHub</p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=580&height=70 lines=I'm+Dharish+Ramasamy;Aspiring+Software+Developer;Web+Development+Enthusiast;DevOps+Engineer"></p>
+<h3 align="center">Embrace every opportunity to grow, and let your passion for what's right fuel your journey forward!!</h3>
 
-<!--
-**dharish-ramasamy/dharish-ramasamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+...
 
-Here are some ideas to get you started:
+Hello! 👋 I'm Dharish, an engineering student, I am passionate about software development, programming, and web development. I am committed to continually enhancing my skills and seeking a dynamic fresher position in a reputable software company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my journey as a developer, I've honed skills in Java, C, Python, HTML, CSS, JavaScript, and SQL, with a dedication to continuous learning and skill development. I enjoy architecting scalable solutions, optimizing performance, and staying up-to-date with the latest industry trends and best practices.
+
+## 🚀 Skills and Technologies
+...
+
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="margin-right: 2px;" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin-right: 2px;" />
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 2px;" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 2px;" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 2px;" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 2px;" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 2px;" />
+
+## 📈 GitHub Stats
+...
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharish-ramasamy&theme=vision_friendly_dark&card_width=500)
+
+<div style="display: flex; flex-wrap: wrap; gap:20px">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dharish-ramasamy&theme=vision_friendly_dark" alt="GitHub Stats"> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharish-ramasamy&theme=vision_friendly_dark" alt="Most Commit Languages">
+</div> <br />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharish-ramasamy&theme=vision-friendly-dark&hide_border=true&card_width=500)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharish-ramasamy&theme=vision-friendly-dark&include_all_commits=true&count_private=true&card_width=500&hide_border=true) 
+
+## 🏆 Leetcode Stats
+...
+![LeetCode Stats](https://leetcard.jacoblin.cool/LKP6MEiZei?theme=nord&font=Poppins&ext=contest)
+
+
+## ✍️ Random Dev Quote
+...
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
