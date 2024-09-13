@@ -38,7 +38,7 @@ My projects showcase my commitment to writing clean, efficient code and solving 
 
 ## 🏆 Leetcode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/LKP6MEiZei?theme=dark&font=Poppins)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dharish-ramasamy?theme=dark&font=Cantarell)
 
 ## ✍️ Random Dev Quote
 
