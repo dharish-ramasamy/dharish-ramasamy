@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub!!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=#ff0d00&size=30&center=true&vCenter=true&width=580&height=70&lines=I'm+Dharish+Ramasamy;Aspiring+Software+Developer;Web+Development+Enthusiast;DevOps+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=580&height=70&lines=I'm+Dharish+Ramasamy;Aspiring+Software+Developer;Web+Development+Enthusiast;DevOps+Engineer">
 </p>
 <h3 align="center">Embrace every opportunity to grow, and let your passion for what's right fuel your journey forward!!</h3>
 
