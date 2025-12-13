@@ -1,25 +1,28 @@
-<h1 align="center">Welcome to my GitHub!!</h1>
+<h1 align="center">
+  Welcome to my GitHub!!
+</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=580&height=70&lines=I'm+Dharish+Ramasamy;Aspiring+Software+Developer;Web+Development+Enthusiast;DevOps+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=580&height=70&lines=Hello!;This+is+Dharish+Ramasamy;Embedded+Software+Engineer">
 </p>
-<h3 align="center">Embrace every opportunity to grow, and let your passion for what's right fuel your journey forward!!</h3>
+<h3 align="center">Growth comes from consistency, purpose, and the courage to keep moving forward!!</h3><br />
 
-## 👩‍💻 About Me
+![image](https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif)<br /><br />
 
-Hello! 👋 I'm Dharish, a passionate and dedicated final-year engineering student with a strong foundation in software development, web development, and programming. With hands-on experience in Java, C, Python, HTML, CSS, JavaScript, and SQL, I'm continuously expanding my skill set to stay on the cutting edge of technology!!
 
-My projects showcase my commitment to writing clean, efficient code and solving complex problems. From developing interactive web applications to creating innovative software solutions, I'm on a journey to becoming a full-stack developer!!
+## 📑 About Me
 
-## 🚀 Skills and Technologies
+Hi 👋,I am an **Embedded Software Engineer** with a strong focus on low-level system development, real-time software, and hardware-oriented programming on ARM-based platforms. My work emphasizes building reliable, efficient, and maintainable embedded software for resource-constrained environments.I have hands-on experience in embedded C programming, and assembly-level programming on ARM Cortex-M4 Processors. I have worked close to hardware by configuring registers, handling interrupts, managing memory, and interfacing peripherals, while following structured and optimized coding practices.
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="margin-right: 2px;" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin-right: 2px;" />
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 2px;" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 2px;" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 2px;" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 2px;" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 2px;" />
+> My technical background includes real-time operating systems, where I have implemented multitasking applications using FreeRTOS, applying concepts such as task scheduling, inter-task communication, synchronization, and timing analysis on STM32 platforms. I have also worked with Linux-based embedded systems, gaining exposure to system-level programming, Bash scripting, and device driver development. This includes practical experience with kernel–user space interaction, hardware interfacing, and platform bring-up on single-board computers. I am actively seeking opportunities in Embedded Software Developer and embedded-related roles, where I can contribute to performance-critical and system-level software development.
+
+<br />
+
+## 🧰 Languages and Tools
+<div style="padding-right:30px;">
+  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=TpULddJc4gTh&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=gVK745a4Vaur&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=17842&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=38792&format=png"/> <img height="50" width="50" src="https://www.vim.org/images/vimlogo.svg"/> <img height="60" width="60" src="https://ac.aliaelectronics.com/wp-content/uploads/2022/02/logokeil5.webp"/> <img height="45" width="45" src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png"/>  <img height="45" width="45" src="https://avatars.githubusercontent.com/u/9460735?v=4"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=ezj3zaVtImPg&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=13444&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=20906&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png"/> 
+</div>
+
+<br />
 
 ## 📈 GitHub Stats
 
@@ -30,16 +33,32 @@ My projects showcase my commitment to writing clean, efficient code and solving 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharish-ramasamy&theme=vision_friendly_dark" alt="Most Commit Languages">
 </div> <br />
 
+## 📊 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharish-ramasamy&theme=vision-friendly-dark&hide_border=true&card_width=500)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharish-ramasamy&theme=vision-friendly-dark&include_all_commits=true&count_private=true&card_width=500&hide_border=true) 
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharish-ramasamy&bg_color=000000&color=ffffff&line=990000&point=ababab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br />
+
 ## 🏆 Leetcode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dharish-ramasamy?theme=dark&font=Cantarell)
 
-## ✍️ Random Dev Quote
+<br />
+
+## ✍️ Random Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
+
+<br />
+
+## 🔗 Links
+
+<a href="mailto:dharishjayakodi@gmail.com">
+  <img src="https://img.icons8.com/?size=48&id=ho8QlOYvMuG3&format=png" alt="Gmail" />
+</a>
+<a href="www.linkedin.com/in/dharishramasamy">
+  <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="LinkedIn" />
+</a><br />
