@@ -56,9 +56,19 @@ Hi 👋,I am an **Embedded Software Engineer** with a strong focus on low-level 
 
 ## 🔗 Links
 
-<a href="mailto:dharishjayakodi@gmail.com">
-  <img src="https://img.icons8.com/?size=48&id=ho8QlOYvMuG3&format=png" alt="Gmail" />
-</a>
-<a href="www.linkedin.com/in/dharishramasamy">
-  <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="LinkedIn" />
-</a><br />
+<p align="left">
+    <a href="https://www.linkedin.com/in/dharishramasamy" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png"
+         alt="LinkedIn"
+         style="margin-right:10px; transition: transform 0.5s;"
+         onmouseover="this.style.transform='scale(1.15)'"
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="mailto:dharishjayakodi@gmail.com">
+    <img src="https://img.icons8.com/?size=48&id=37246&format=png"
+         alt="Gmail"
+         style="transition: transform 0.5s;"
+         onmouseover="this.style.transform='scale(1.15)'"
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</p></ br>
