@@ -34,11 +34,12 @@ Hi 👋,I am an **Embedded Software Engineer** with a strong focus on low-level 
 </div> <br />
 
 ## 📊 GitHub Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=dharish-ramasamy&theme=vision-friendly-dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharish-ramasamy&theme=vision-friendly-dark&include_all_commits=true&count_private=true&card_width=500&hide_border=true) 
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharish-ramasamy&bg_color=000000&color=ffffff&line=990000&point=ababab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharish-ramasamy&bg_color=000000&color=ffffff&line=990000&point=ababab&area=true&hide_border=true)
 
 <br />
 
