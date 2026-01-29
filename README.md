@@ -72,4 +72,6 @@ My technical background includes real-time operating systems, where I have imple
          onmouseover="this.style.transform='scale(1.15)'"
          onmouseout="this.style.transform='scale(1)'"/>
   </a>
-</p></ br>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharish-ramasamy&label=Profile%20views&color=0e75b6&style=flat" alt="dharish-ramasamy" /> </p>
