@@ -13,7 +13,11 @@
 
 Hi 👋,I am an **Embedded Software Engineer** with a strong focus on low-level system development, real-time software, and hardware-oriented programming on ARM-based platforms. My work emphasizes building reliable, efficient, and maintainable embedded software for resource-constrained environments.I have hands-on experience in embedded C programming, and assembly-level programming on ARM Cortex-M4 Processors. I have worked close to hardware by configuring registers, handling interrupts, managing memory, and interfacing peripherals, while following structured and optimized coding practices.
 
-My technical background includes real-time operating systems, where I have implemented multitasking applications using FreeRTOS, applying concepts such as task scheduling, inter-task communication, synchronization, and timing analysis on STM32 platforms. I have also worked with Linux-based embedded systems, gaining exposure to system-level programming, Bash scripting, and device driver development. This includes practical experience with kernel–user space interaction, hardware interfacing, and platform bring-up on single-board computers. I am actively seeking opportunities in Embedded Software Developer and embedded-related roles, where I can contribute to performance-critical and system-level software development.
+My technical background includes real-time operating systems, where I have implemented multitasking applications using FreeRTOS, applying concepts such as task scheduling, inter-task communication, synchronization, and timing analysis on STM32 platforms. I have also worked with Linux-based embedded systems, gaining exposure to system-level programming, Bash scripting, and device driver development. This includes practical experience with kernel–user space interaction, hardware interfacing, and platform bring-up on single-board computers.
+
+I have practical experience implementing communication protocols such as UART, I2C, SPI, and CAN for reliable peripheral interfacing and ECU-level communication. This includes configuring controllers, handling interrupts, managing data framing, and ensuring robust data exchange in embedded environments.
+
+I am actively seeking opportunities in Embedded Software Developer and embedded-related roles, where I can contribute to performance-critical and system-level software development.
 
 <br />
 
@@ -40,12 +44,6 @@ My technical background includes real-time operating systems, where I have imple
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharish-ramasamy&theme=vision-friendly-dark&include_all_commits=true&count_private=true&card_width=500&hide_border=true) 
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharish-ramasamy&bg_color=000000&color=ffffff&line=990000&point=ababab&area=true&hide_border=true)
-
-<br />
-
-## 🏆 Leetcode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/dharish-ramasamy?theme=dark&font=Cantarell)
 
 <br />
 
