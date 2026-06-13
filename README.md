@@ -11,19 +11,28 @@
 
 ## 📑 About Me
 
-Hi 👋,I am an **Embedded Software Engineer** with a strong focus on low-level system development, real-time software, and hardware-oriented programming on ARM-based platforms. My work emphasizes building reliable, efficient, and maintainable embedded software for resource-constrained environments.I have hands-on experience in embedded C programming, and assembly-level programming on ARM Cortex-M4 Processors. I have worked close to hardware by configuring registers, handling interrupts, managing memory, and interfacing peripherals, while following structured and optimized coding practices.
-
-My technical background includes real-time operating systems, where I have implemented multitasking applications using FreeRTOS, applying concepts such as task scheduling, inter-task communication, synchronization, and timing analysis on STM32 platforms. I have also worked with Linux-based embedded systems, gaining exposure to system-level programming, Bash scripting, and device driver development. This includes practical experience with kernel–user space interaction, hardware interfacing, and platform bring-up on single-board computers.
-
-I have practical experience implementing communication protocols such as UART, I2C, SPI, and CAN for reliable peripheral interfacing and ECU-level communication. This includes configuring controllers, handling interrupts, managing data framing, and ensuring robust data exchange in embedded environments.
-
-I am actively seeking opportunities in Embedded Software Developer and embedded-related roles, where I can contribute to performance-critical and system-level software development.
-
+Hi 👋,I am an **Embedded Software Engineer**, passionate about C, C++, Embedded Linux, Linux Device Drivers, RTOS, FPGA-based systems, and low-level software development. <br />
+Actively exploring system programming, Data Structures & Algorithms (DSA), and hardware-software co-design to build efficient, scalable, and real-time embedded systems. <br />
+Interested in developing performance-critical solutions spanning firmware, Linux kernel and driver development, and FPGA-based platforms.
 <br />
 
 ## 🧰 Languages and Tools
 <div style="padding-right:30px;">
-  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=TpULddJc4gTh&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=gVK745a4Vaur&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=17842&format=png"/> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VirtualBox_2024_Logo.svg/1200px-VirtualBox_2024_Logo.svg.png"/> <img height="50" width="50" src="https://www.vim.org/images/vimlogo.svg"/> <img height="60" width="60" src="https://ac.aliaelectronics.com/wp-content/uploads/2022/02/logokeil5.webp"/> <img height="45" width="45" src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=13444&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=ezj3zaVtImPg&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=20906&format=png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png"/> 
+  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=TpULddJc4gTh&format=png"/> 
+  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png"/> 
+  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=gVK745a4Vaur&format=png"/> 
+  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png"/> 
+  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=17842&format=png"/> 
+  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VirtualBox_2024_Logo.svg/1200px-VirtualBox_2024_Logo.svg.png"/> 
+  <img height="50" width="50" src="https://www.vim.org/images/vimlogo.svg"/> 
+  <img height="60" width="60" src="https://ac.aliaelectronics.com/wp-content/uploads/2022/02/logokeil5.webp"/> 
+  <img height="45" width="45" src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png"/> 
+  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=13444&format=png"/> 
+  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png"/> 
+  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=ezj3zaVtImPg&format=png"/> 
+  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=20906&format=png"/> 
+  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png"/>
 </div>
 
 <br />
